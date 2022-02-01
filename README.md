@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichardvLeeuwen
 - 👀 I’m interested in computer networks, distributed systems and software.
-- 🌱 I’m currently learning Apache Spark, Scala, Python and C++. I am also following a computer science master at the University of Helsinki with a specialisation in networking.
-- 💞️ I’m looking to collaborate on projects regarding data processing, networking, automisation and anything else interesting.
+- 🌱 I’m currently doing different projects such as full stack web development and virtualization deployment. I am also following a computer science master at the University of Helsinki with a specialisation in networking.
+- 💞️ I’m looking to collaborate on projects regarding networking, cloud deployment and general software development.
 - 📫 How to reach me: Github, Linkedin and by e-mail.
 
 <!---
